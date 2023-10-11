@@ -5,6 +5,7 @@
 //     menuIcon.classList.toggle;length('bx-x');
 //     navbar.classList.toggle('active');
 // }
+import "/style.css"
 
 
 let sections = document.querySelectorAll('section');
